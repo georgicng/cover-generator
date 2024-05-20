@@ -1,7 +1,7 @@
 {
   "name": "cover-generator",
   "version": "1.0.0",
-  "description": "Coda Job-RM cover leter generator",
+  "description": "Coda Job-RM cover letter generator",
   "main": "index.js",
   "type": "module",
   "scripts": {
