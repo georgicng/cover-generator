@@ -1,0 +1,25 @@
+{
+  "name": "cover-generator",
+  "version": "1.0.0",
+  "description": "Coda Job-RM cover leter generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@backroad/backroad": "^1.4.0-alpha.5",
+    "@langchain/community": "^0.0.57",
+    "@langchain/openai": "^0.0.31",
+    "cheerio": "^1.0.0-rc.12",
+    "coda-js": "^4.0.1",
+    "dotenv": "^16.4.5",
+    "jimp": "^0.22.12",
+    "langchain": "^0.1.37",
+    "pdf-parse": "^1.1.1",
+    "zod": "^3.23.8"
+  }
+}
